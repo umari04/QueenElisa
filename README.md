@@ -54,6 +54,8 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 </br>
 
 ## 2. GET SESSION ID
+
+https://gpt-qr-code.onrender.com/
 <!--
 <a href = "https://gpt-qr-code.onrender.com/elisa"> <img src = "/repo-data/elisa scan qr code.svg" width="150" height="70" > </a></br>
     OR   
